@@ -1,7 +1,25 @@
+header{
+    background-color: teal;
+}
 h1 {
-    background-color:blue;
+    text-align: center;
     font-size: 40px;
+    padding: 20px 0;
 }
 h2 {
     text-align: center;
+    color: teal;
+}
+nav {
+    background-color: lightskyblue;
+}
+main {
+    background-color: lightskyblue;
+}
+footer {
+    background-color: teal;
+
+}
+#footer {
+    color: lightskyblue;
 }
